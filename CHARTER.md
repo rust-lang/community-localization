@@ -1,4 +1,4 @@
-# {{PROJECT_GROUP}} Charter
+# Localisation Charter
 <!--
  Provide an introduction summarising the goals and motivation behind your
  project group.

@@ -1,4 +1,4 @@
-# Localisation Project Group
+# Localization Team
 
 <!--
  Status badge advertising the project as being actively worked on. When the
@@ -8,20 +8,18 @@
 ![project group status: active](https://img.shields.io/badge/status-active-brightgreen.svg)
 [![project group documentation](https://img.shields.io/badge/MDBook-View%20Documentation-blue)][gh-pages]
 
-
 <!--
  Provide a short introduction about your project group. Make sure to include any
  relevant links to information about your group.
 -->
 
-Welcome the repository for the Localisation Project Group! This is the
-repository we use to organise our work. Please refer to our [charter] as well
+Welcome the repository for the Localization Team! This is the
+repository we use to organize our work. Please refer to our [charter] as well
 as our [github pages website][gh-pages] for more information on our goals and
 current scope.
 
 [charter]: ./CHARTER.md
-[gh-pages]: https://rust-lang.github.io/project-localisation
-
+[gh-pages]: https://rust-lang.github.io/community-localization
 
 ## How Can I Get Involved?
 
@@ -44,7 +42,7 @@ yourself over there and ask us any questions you have.
 
 [open issues]: /issues
 [chat-link]: https://discord.gg/6DauHpr
-[team-toml]: https://github.com/rust-lang/team/blob/master/teams/project-localisation.toml
+[team-toml]: https://github.com/rust-lang/team/blob/master/teams/community-localization.toml
 
 ## Building Documentation
 This repository is also an mdbook project. You can view and build it using the

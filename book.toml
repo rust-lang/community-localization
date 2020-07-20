@@ -1,0 +1,10 @@
+[book]
+authors = ["Localization Team Members"]
+language = "en"
+multilingual = false
+src = "."
+title = "Localization Team"
+
+[output.html]
+no-section-label=true
+git-repository-url="https://github.com/rust-lang/community-localization"

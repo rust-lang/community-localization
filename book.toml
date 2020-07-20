@@ -1,10 +1,10 @@
 [book]
-authors = ["{{PROJECT_GROUP}} Members"]
+authors = ["Localization Team Members"]
 language = "en"
 multilingual = false
 src = "."
-title = "{{PROJECT_GROUP}} Project Group"
+title = "Localization Team"
 
 [output.html]
 no-section-label=true
-git-repository-url="https://github.com/rust-lang/{{PROJECT_GROUP_SLUG}}"
+git-repository-url="https://github.com/rust-lang/community-localization"

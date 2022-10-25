@@ -34,7 +34,7 @@ current scope.
 [You can find a list of the current members available
 on `rust-lang/team`.][team-toml]
 
-If you'd like to participate be sure to check out any of our [open issues] on this
+If you'd like to participate, be sure to check out any of our [open issues](https://github.com/rust-lang/community-localization/issues) on this
 repository.
 
 We also participate on [Discord][chat-link], feel free to introduce
